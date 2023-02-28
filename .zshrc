@@ -101,3 +101,6 @@ source $ZSH/oh-my-zsh.sh
 alias l='exa'
 alias ll='exa -lah'
 alias ls='exa --icons --color=auto'
+alias k="kubectl"
+alias kg="ubectl get"
+alias kpd="kubectl get pod"
